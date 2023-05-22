@@ -4,7 +4,7 @@ MyBike is a website where you can see an assortment of the latest bikes with the
 
 ## Demo
 
-[DEMO LINK](https://yaroslav-vasiltev.github.io/mybike-landing/)
+[DEMO LINK](https://yaroslav-vasilyev.github.io/layout_miami/)
 
 ## Figma Landing
 
