@@ -1,4 +1,12 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# MyBike Landing
+
+MyBike is a website where you can see an assortment of the latest bikes with the ability to see all the details both in the photo and in the description. It also has all the contacts and a burger menu for easy navigation on the page.
+
+
+## FAQ
+
+#### Technologies
+
+HTML, SCSS, JavaScript, BEM methodology
+
+
